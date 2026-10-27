@@ -1,0 +1,17 @@
+{
+  "name": "鋼鉄の大陸",
+  "short_name": "鋼鉄の大陸",
+  "description": "架空の大陸と実在の装備で戦う現代戦略ゲーム",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1418",
+  "theme_color": "#0f1418",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
