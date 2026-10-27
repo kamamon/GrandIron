@@ -1,5 +1,5 @@
 /* 鋼鉄の大陸 — service worker（オフラインでも遊べるように、ページと絵を保存する） */
-const VERSION = 'f580f0efb1';
+const VERSION = '7c02a5eb2e';
 const CACHE = 'steel-' + VERSION;
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png', './icons/apple-touch-icon.png'];
 self.addEventListener('install', (e) => {
